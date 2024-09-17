@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Travel-Kenya/static/css/main.70a52f25.css",
+    "main.js": "/Travel-Kenya/static/js/main.9714730a.js",
+    "static/css/656.0c90da0b.chunk.css": "/Travel-Kenya/static/css/656.0c90da0b.chunk.css",
+    "static/js/656.cd0bc97d.chunk.js": "/Travel-Kenya/static/js/656.cd0bc97d.chunk.js",
+    "static/css/218.32b4cc4f.chunk.css": "/Travel-Kenya/static/css/218.32b4cc4f.chunk.css",
+    "static/js/218.ccf4f944.chunk.js": "/Travel-Kenya/static/js/218.ccf4f944.chunk.js",
+    "static/js/453.59f12d2f.chunk.js": "/Travel-Kenya/static/js/453.59f12d2f.chunk.js",
+    "static/media/hero-background.jpg": "/Travel-Kenya/static/media/hero-background.0fc5465d60525e25ebd1.jpg",
+    "index.html": "/Travel-Kenya/index.html",
+    "main.70a52f25.css.map": "/Travel-Kenya/static/css/main.70a52f25.css.map",
+    "main.9714730a.js.map": "/Travel-Kenya/static/js/main.9714730a.js.map",
+    "656.0c90da0b.chunk.css.map": "/Travel-Kenya/static/css/656.0c90da0b.chunk.css.map",
+    "656.cd0bc97d.chunk.js.map": "/Travel-Kenya/static/js/656.cd0bc97d.chunk.js.map",
+    "218.32b4cc4f.chunk.css.map": "/Travel-Kenya/static/css/218.32b4cc4f.chunk.css.map",
+    "218.ccf4f944.chunk.js.map": "/Travel-Kenya/static/js/218.ccf4f944.chunk.js.map",
+    "453.59f12d2f.chunk.js.map": "/Travel-Kenya/static/js/453.59f12d2f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70a52f25.css",
+    "static/js/main.9714730a.js"
+  ]
+}
