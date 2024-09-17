@@ -4,6 +4,10 @@ import heroBackground from './hero-background.jpg';
 import { Link, Element, animateScroll as scroll } from 'react-scroll';
 import countryCodes from './countryCodes';
 import { FaSearch, FaBars, FaTimes } from 'react-icons/fa';
+import safariImage from './images/safari.jpg';
+import beachImage from './images/beach.jpg';
+import cultureImage from './images/culture.jpg';
+import landscapeImage from './images/landscape.jpg';
 
 const PaymentModal = lazy(() => import('./PaymentModal'));
 const BlogModal = lazy(() => import('./BlogModal'));
@@ -198,7 +202,7 @@ function App() {
             <div className="discover-item">
               <div className="discover-item-inner">
                 <div className="discover-item-front">
-                  <img src="/images/safari.jpg" alt="Kenyan Wildlife" />
+                  <img src={safariImage} alt="Kenyan Wildlife" />
                   <h3>Wildlife Safaris</h3>
                 </div>
                 <div className="discover-item-back">
@@ -210,7 +214,7 @@ function App() {
             <div className="discover-item">
               <div className="discover-item-inner">
                 <div className="discover-item-front">
-                  <img src="/images/beach.jpg" alt="Kenyan Beaches" />
+                  <img src={beachImage} alt="Kenyan Beaches" />
                   <h3>Pristine Beaches</h3>
                 </div>
                 <div className="discover-item-back">
@@ -222,7 +226,7 @@ function App() {
             <div className="discover-item">
               <div className="discover-item-inner">
                 <div className="discover-item-front">
-                  <img src="/images/culture.jpg" alt="Kenyan Culture" />
+                  <img src={cultureImage} alt="Kenyan Culture" />
                   <h3>Rich Culture</h3>
                 </div>
                 <div className="discover-item-back">
@@ -234,7 +238,7 @@ function App() {
             <div className="discover-item">
               <div className="discover-item-inner">
                 <div className="discover-item-front">
-                  <img src="/images/landscape.jpg" alt="Kenyan Landscapes" />
+                  <img src={landscapeImage} alt="Kenyan Landscapes" />
                   <h3>Breathtaking Landscapes</h3>
                 </div>
                 <div className="discover-item-back">
